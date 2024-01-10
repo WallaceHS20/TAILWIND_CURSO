@@ -10,7 +10,7 @@ Desenvolvimento de uma tela de login utilizando TailwindCSS
 
 ## Resultado
 
-https://github.com/WallaceHS20/TICKETS/assets/101594950/05cc5d18-398e-420d-9189-9b53981ace17
+carregando...
 
 ## Instalação
 
@@ -33,7 +33,7 @@ npm run dev
 
 ------------
 
-LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7150286665960390656/
+#### LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7150286665960390656/
 ------------
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=footer"/>
