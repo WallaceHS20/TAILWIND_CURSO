@@ -10,7 +10,7 @@ Desenvolvimento de uma tela de login utilizando TailwindCSS
 
 ## Resultado
 
-carregando...
+https://github.com/WallaceHS20/TAILWIND_LOGIN/assets/101594950/4333124b-82ce-4ca6-b00d-c5d1d39a3232
 
 ## Instalação
 
